@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently developing and exploring more fontend, backend and testing tools
 - 👯 I’m looking to collaborate with other content creators
-- 🎯 2022 - learning new things a day or cementing what you have learned. 
+- 🎯 2022 - learning new things a day or cementing what I have learned. 
 - ⚡ Fun fact: I like party and hanging out with family and friends
 
 ### Connect with me:
@@ -49,7 +49,7 @@
 <br />
 <br />  
   
-  
+
 <details>
   <summary>:zap: GitHub Stats</summary>
  
