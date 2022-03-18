@@ -47,8 +47,9 @@
 <img align="left" alt="Trello" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" style="padding-right:10px;" />
 
 <br />
-<br />
-
+<br />  
+  
+  
 <details>
   <summary>:zap: GitHub Stats</summary>
  
