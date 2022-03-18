@@ -1,12 +1,12 @@
 # Hi there, I'm Ahammed Saad [asaad227] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/asaad227?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fasaad227&screen_name=asaad227)
+[![Twitter Follow](https://img.shields.io/twitter/follow/a_saad227?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fa_saad227&screen_name=a_saad227)
 
 ## I'm a Husband, Father and a Developer!!
 
 - 🌱 I’m currently developing and exploring more fontend, backend and testing tools
 - 👯 I’m looking to collaborate with other content creators
-- 🎯 2022 - learning a new things a day or cementing what you have learned. 
+- 🎯 2022 - learning new things a day or cementing what you have learned. 
 - ⚡ Fun fact: I like party and hanging out with family and friends
 
 ### Connect with me:
